@@ -1,4 +1,4 @@
-#  發行代幣ERC721
+#  發行NFT ERC721
 
 ##  NFT介紹
 
@@ -15,3 +15,7 @@ NFT名稱：PandaNFT
 合約部屬地址：0x26a5FD91E8AD8fC71B0b77842196f6658076912a [Etherscan](https://sepolia.etherscan.io/address/0x26a5fd91e8ad8fc71b0b77842196f6658076912a)
 
 METAMASK 導入NFT TOKEN_ID： 1
+
+##  NFT圖片
+
+![PANDA](https://github.com/PoLin0710/ERC721/assets/42795706/151a876a-e150-46b7-8021-8657bad79328)
